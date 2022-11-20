@@ -1,0 +1,22 @@
+a:link{color:#268bd2;}
+a:visited{color:#6c71c4;}
+a:hover{color:#839496;}
+.column{float:left;}
+.left{
+	width:80%;
+	overflow-wrap:break-word;
+}
+.right{
+	width:17%;
+	padding-right:3%;
+	text-align:right;
+}
+.container{}
+.footer{
+	clear:both;
+	padding-top:10px;
+}
+body{
+	background-color:#fdf6e3;
+	color:#586e75;
+}
